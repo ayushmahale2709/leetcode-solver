@@ -82,7 +82,7 @@ button {
   border: none;
   border-radius: 25px;
   background: #00c853;
-  color: white;
+  color: black;
   cursor: pointer;
   transition: 0.3s;
   box-shadow: 0 5px 15px rgba(0, 200, 83, 0.4);
