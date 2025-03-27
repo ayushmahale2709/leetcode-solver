@@ -11,6 +11,9 @@ This is a **React + Vite** app that generates clean, runnable solutions for Leet
 - **API Integration:** Uses **Gemini API** for code generation.  
 
 ---
+## 🌐 **Live Demo**
+🔗 [Click here to view the live project](https://leetcode-solver-3zwo896y5-ayushmahale2709s-projects.vercel.app) 🚀
+
 
 ## 🌟 **Features**
 1. 📌 **LeetCode Solution Generator**
