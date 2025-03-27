@@ -79,10 +79,7 @@ npm run dev
 ## 🔥 **Screenshots**
 
 ### 💻 **Desktop View**
-![Desktop View](./screenshots/desktop.png)
-
-### 📱 **Mobile View**
-![Mobile View](./screenshots/mobile.png)
+![Desktop View](https://github.com/user-attachments/assets/1f66178c-9818-41b2-abbc-71045bcfa982)
 
 ---
 
