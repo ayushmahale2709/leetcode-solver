@@ -1,6 +1,6 @@
 
 
-# 🚀 **LeetCode Solution Generator**
+# 🚀 **LeetCode Solution Generator(Leetcode-Solver)**
 
 This is a **React + Vite** app that generates clean, runnable solutions for LeetCode questions using **Google Gemini API**. It features:
 - **Language Selection:** Supports JavaScript, Python, Java, C++, Go, and C#.  
@@ -44,8 +44,8 @@ This is a **React + Vite** app that generates clean, runnable solutions for Leet
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/leetcode-solution-generator.git
-cd leetcode-solution-generator
+git clone https://github.com/ayushmahale2709/leetcode-solver.git
+cd leetcode-solver
 ```
 
 ### 2️⃣ Install Dependencies
