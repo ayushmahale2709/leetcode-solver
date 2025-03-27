@@ -91,11 +91,6 @@ The app uses **Google Gemini API** for code generation. Ensure you have:
 
 ---
 
-## 🔥 **Demo**
-You can try out the live demo [here](https://your-live-demo-url.vercel.app).
-
----
-
 ## 📌 **Future Enhancements**
 - **Dark Mode:** Toggle between light and dark themes.  
 - **Syntax Highlighting:** Display output with syntax highlighting.  
